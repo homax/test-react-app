@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --bail -d --history-api-fallback --hot --progress --inline --colors",
-    "test": "NODE_PATH=./js:./js/modules mocha --opts ./mocha.opts ",
+    "test": "",
     "build": "NODE_ENV=production webpack --bail --optimize-dedupe --optimize-minimize --optimize-occurence-order --define process.env.NODE_ENV=\"'production'\"",
     "build_debug": "webpack --bail ",
-    "jslint": "eslint"
+    "jslint": ""
   },
   "repository": {
     "type": "git",
