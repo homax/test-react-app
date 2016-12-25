@@ -1,0 +1,3509 @@
+[
+	{
+		"id": "_op92ud0i0",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.747Z",
+		"sum": "518.59",
+		"discount": "189.92"
+	},
+	{
+		"id": "_w3gwsc45a",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.747Z",
+		"sum": "7922.11",
+		"discount": "3587.31"
+	},
+	{
+		"id": "_vrr7sb2e2",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8684.23",
+		"discount": "496.75"
+	},
+	{
+		"id": "_oddfcg8gt",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8020.26",
+		"discount": "3068.98"
+	},
+	{
+		"id": "_02asomeb6",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8754.68",
+		"discount": "2145.04"
+	},
+	{
+		"id": "_qvbc5i7f2",
+		"cardNumber": "a8406ccc-c9c5-483b-87d8-721ce4d5bb0c",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "2576.78",
+		"discount": "1272.38"
+	},
+	{
+		"id": "_y7oo0bw6m",
+		"cardNumber": "5d0b2249-1a13-410c-9e5a-26efaa6585ee",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "1328.35",
+		"discount": "71.73"
+	},
+	{
+		"id": "_exs3tvylx",
+		"cardNumber": "99e4e54a-880b-4cdc-9c3f-8198b75f8d1a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7139.17",
+		"discount": "2779.51"
+	},
+	{
+		"id": "_jjpnk3d6w",
+		"cardNumber": "99e4e54a-880b-4cdc-9c3f-8198b75f8d1a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7574.15",
+		"discount": "488.67"
+	},
+	{
+		"id": "_cj3uto4vr",
+		"cardNumber": "99e4e54a-880b-4cdc-9c3f-8198b75f8d1a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8324.60",
+		"discount": "3897.95"
+	},
+	{
+		"id": "_q1t2asrzh",
+		"cardNumber": "99e4e54a-880b-4cdc-9c3f-8198b75f8d1a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "293.11",
+		"discount": "42.72"
+	},
+	{
+		"id": "_ohyc2es5g",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7997.08",
+		"discount": "210.15"
+	},
+	{
+		"id": "_caghor961",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3234.69",
+		"discount": "170.68"
+	},
+	{
+		"id": "_2dalnw1tw",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5852.73",
+		"discount": "2067.67"
+	},
+	{
+		"id": "_hm8k5hl8b",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7395.74",
+		"discount": "3308.77"
+	},
+	{
+		"id": "_nszgf63g2",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3636.22",
+		"discount": "1279.09"
+	},
+	{
+		"id": "_rlmgxcxup",
+		"cardNumber": "2babbb98-20b5-4388-b632-0561bfa0dbf1",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5309.60",
+		"discount": "588.55"
+	},
+	{
+		"id": "_ozlbixjrk",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8451.00",
+		"discount": "1530.26"
+	},
+	{
+		"id": "_e0iipziyv",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6751.74",
+		"discount": "1413.36"
+	},
+	{
+		"id": "_vm5kfk8r2",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "9492.91",
+		"discount": "4187.51"
+	},
+	{
+		"id": "_j7sulmpo0",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3648.67",
+		"discount": "1403.11"
+	},
+	{
+		"id": "_2gandecvi",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "1399.96",
+		"discount": "475.48"
+	},
+	{
+		"id": "_5ldlzrmhg",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "2037.80",
+		"discount": "175.96"
+	},
+	{
+		"id": "_d1gzikl5p",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "29.90",
+		"discount": "4.35"
+	},
+	{
+		"id": "_b8yes4fsu",
+		"cardNumber": "00df80cf-0cae-4e2b-aa5d-58599e4a5fa4",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8129.98",
+		"discount": "1664.56"
+	},
+	{
+		"id": "_k8xxl20mk",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "1968.96",
+		"discount": "110.32"
+	},
+	{
+		"id": "_crks7pl3b",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "4125.24",
+		"discount": "1167.47"
+	},
+	{
+		"id": "_85b8x154q",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5639.31",
+		"discount": "441.53"
+	},
+	{
+		"id": "_u9lsdjs0i",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "4881.08",
+		"discount": "1348.74"
+	},
+	{
+		"id": "_skc7tcmt1",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8192.81",
+		"discount": "730.27"
+	},
+	{
+		"id": "_q0c8t7hkj",
+		"cardNumber": "97f67866-aa8f-489a-b6d1-b277366902c6",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "2203.15",
+		"discount": "682.13"
+	},
+	{
+		"id": "_butlx4l1i",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8536.80",
+		"discount": "729.09"
+	},
+	{
+		"id": "_v6u5yc6il",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6136.09",
+		"discount": "604.18"
+	},
+	{
+		"id": "_mkxn0se27",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6538.91",
+		"discount": "367.62"
+	},
+	{
+		"id": "_nz6qrw7gi",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5009.42",
+		"discount": "377.99"
+	},
+	{
+		"id": "_tb92laqht",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8179.13",
+		"discount": "564.40"
+	},
+	{
+		"id": "_9h9alhczx",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7204.90",
+		"discount": "1103.82"
+	},
+	{
+		"id": "_zr79gews0",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8430.57",
+		"discount": "1593.63"
+	},
+	{
+		"id": "_iyyd45jcp",
+		"cardNumber": "a40c15a7-8b0a-408a-b4dd-270fb7bd0bcc",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "1490.89",
+		"discount": "426.66"
+	},
+	{
+		"id": "_22emmquon",
+		"cardNumber": "9918284f-9390-4252-9ac9-5a78252f540a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "257.78",
+		"discount": "59.58"
+	},
+	{
+		"id": "_i7s9bqp3z",
+		"cardNumber": "9918284f-9390-4252-9ac9-5a78252f540a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8099.05",
+		"discount": "3926.87"
+	},
+	{
+		"id": "_un9ybt9o5",
+		"cardNumber": "9918284f-9390-4252-9ac9-5a78252f540a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6925.98",
+		"discount": "745.17"
+	},
+	{
+		"id": "_d9rasm2p5",
+		"cardNumber": "9918284f-9390-4252-9ac9-5a78252f540a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "2873.55",
+		"discount": "880.76"
+	},
+	{
+		"id": "_23vtml2kf",
+		"cardNumber": "9918284f-9390-4252-9ac9-5a78252f540a",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "4804.50",
+		"discount": "183.90"
+	},
+	{
+		"id": "_70ee0rd4b",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8142.82",
+		"discount": "2336.32"
+	},
+	{
+		"id": "_qruq270ck",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3431.34",
+		"discount": "1670.68"
+	},
+	{
+		"id": "_g5u09sn35",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "821.49",
+		"discount": "341.64"
+	},
+	{
+		"id": "_gl7r6uvou",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "4631.44",
+		"discount": "96.24"
+	},
+	{
+		"id": "_opx668wqe",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "9261.18",
+		"discount": "4031.24"
+	},
+	{
+		"id": "_c9bw1l86p",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6770.18",
+		"discount": "869.82"
+	},
+	{
+		"id": "_1hsh3qmur",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "6731.40",
+		"discount": "1268.15"
+	},
+	{
+		"id": "_49l10r56u",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5430.46",
+		"discount": "696.97"
+	},
+	{
+		"id": "_vzb4gswu1",
+		"cardNumber": "f611fdf2-fccd-4741-8b0b-a34df2ab3b32",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3153.88",
+		"discount": "1563.88"
+	},
+	{
+		"id": "_y7brg70ug",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "9047.48",
+		"discount": "1104.01"
+	},
+	{
+		"id": "_ahumel7z6",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5806.44",
+		"discount": "1224.77"
+	},
+	{
+		"id": "_fc8yxouar",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "3992.60",
+		"discount": "646.71"
+	},
+	{
+		"id": "_ba2h2supg",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "9490.44",
+		"discount": "3324.45"
+	},
+	{
+		"id": "_coekoidoz",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "594.05",
+		"discount": "211.02"
+	},
+	{
+		"id": "_2zzuc6vap",
+		"cardNumber": "d968026c-bc2f-4e24-9c39-3c9d5ac1fbcd",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7104.39",
+		"discount": "704.56"
+	},
+	{
+		"id": "_qzbenfh0i",
+		"cardNumber": "a104a8f3-e63e-4aa2-ac93-dd9a987dca26",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "2544.96",
+		"discount": "957.91"
+	},
+	{
+		"id": "_blnuwa5h1",
+		"cardNumber": "a104a8f3-e63e-4aa2-ac93-dd9a987dca26",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "7697.71",
+		"discount": "61.89"
+	},
+	{
+		"id": "_m62zbgjad",
+		"cardNumber": "a104a8f3-e63e-4aa2-ac93-dd9a987dca26",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5332.35",
+		"discount": "1557.36"
+	},
+	{
+		"id": "_8r5zp418b",
+		"cardNumber": "a104a8f3-e63e-4aa2-ac93-dd9a987dca26",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "1490.46",
+		"discount": "425.07"
+	},
+	{
+		"id": "_ri0i6l09r",
+		"cardNumber": "ef937900-a1cd-4d41-b9fb-5ce2afe3e849",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "8136.98",
+		"discount": "1419.29"
+	},
+	{
+		"id": "_r5wk3k9ve",
+		"cardNumber": "ef937900-a1cd-4d41-b9fb-5ce2afe3e849",
+		"date": "2016-12-25T10:21:33.748Z",
+		"sum": "5690.77",
+		"discount": "2637.88"
+	},
+	{
+		"id": "_ft0dk728j",
+		"cardNumber": "ef937900-a1cd-4d41-b9fb-5ce2afe3e849",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "2660.19",
+		"discount": "987.69"
+	},
+	{
+		"id": "_mk4161akm",
+		"cardNumber": "965b4635-b2e0-463f-9fd4-7b68f2778f13",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "7517.12",
+		"discount": "3657.67"
+	},
+	{
+		"id": "_r3yp8qfan",
+		"cardNumber": "965b4635-b2e0-463f-9fd4-7b68f2778f13",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "7933.48",
+		"discount": "1115.07"
+	},
+	{
+		"id": "_53i07a6oa",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "3740.73",
+		"discount": "316.60"
+	},
+	{
+		"id": "_csry55bpl",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6714.83",
+		"discount": "343.09"
+	},
+	{
+		"id": "_jw3jlz766",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "5722.32",
+		"discount": "1530.34"
+	},
+	{
+		"id": "_tpqidvq7r",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "3065.73",
+		"discount": "1203.69"
+	},
+	{
+		"id": "_gndj1yvlr",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6953.54",
+		"discount": "2716.12"
+	},
+	{
+		"id": "_nv59nvmi4",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "1892.23",
+		"discount": "935.67"
+	},
+	{
+		"id": "_qyiaigen1",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "9321.10",
+		"discount": "972.79"
+	},
+	{
+		"id": "_dugjc9vg6",
+		"cardNumber": "b5b0188c-3795-4e61-8f89-65b836e4d2a9",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "7453.70",
+		"discount": "967.84"
+	},
+	{
+		"id": "_d68h6osn6",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "5158.07",
+		"discount": "105.02"
+	},
+	{
+		"id": "_34cvicicn",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "5335.95",
+		"discount": "1406.12"
+	},
+	{
+		"id": "_6kdqzudo7",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "81.61",
+		"discount": "35.67"
+	},
+	{
+		"id": "_q4sl6qjxv",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "4309.67",
+		"discount": "315.73"
+	},
+	{
+		"id": "_i8f6zour3",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "34.51",
+		"discount": "2.60"
+	},
+	{
+		"id": "_dv5kk8n65",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "1914.58",
+		"discount": "700.94"
+	},
+	{
+		"id": "_fewheoeiw",
+		"cardNumber": "c0d71479-9ac2-48ef-b725-3dde7fa28809",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "4316.95",
+		"discount": "894.25"
+	},
+	{
+		"id": "_fia04ujcc",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "3282.09",
+		"discount": "297.82"
+	},
+	{
+		"id": "_uettb2cn7",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6831.69",
+		"discount": "1653.88"
+	},
+	{
+		"id": "_ii1al1dtx",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "9673.99",
+		"discount": "2562.94"
+	},
+	{
+		"id": "_7jkxied0y",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "5836.21",
+		"discount": "222.79"
+	},
+	{
+		"id": "_lhy47auof",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "7437.26",
+		"discount": "3145.19"
+	},
+	{
+		"id": "_68jteltzj",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "787.32",
+		"discount": "152.81"
+	},
+	{
+		"id": "_s4161sv4t",
+		"cardNumber": "5aced7b7-c24e-4f78-b858-1a4121884e7c",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6785.93",
+		"discount": "2616.16"
+	},
+	{
+		"id": "_ov4he3r1p",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "7354.68",
+		"discount": "2671.54"
+	},
+	{
+		"id": "_og67lx383",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "49.06",
+		"discount": "7.72"
+	},
+	{
+		"id": "_u0wlrmi6w",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "5387.21",
+		"discount": "640.78"
+	},
+	{
+		"id": "_8lwm53iuu",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6319.63",
+		"discount": "2032.43"
+	},
+	{
+		"id": "_ohjaz4326",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "6004.50",
+		"discount": "317.82"
+	},
+	{
+		"id": "_ve4o1ffdd",
+		"cardNumber": "fba65d74-746e-46fc-b632-8c505f05a8ee",
+		"date": "2016-12-25T10:21:33.749Z",
+		"sum": "8491.25",
+		"discount": "1004.58"
+	},
+	{
+		"id": "_liwcwmr3k",
+		"cardNumber": "6a0b23eb-cc42-4aa1-af84-c2ac8a3a1981",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "489.56",
+		"discount": "185.30"
+	},
+	{
+		"id": "_k9tb0vr50",
+		"cardNumber": "6a0b23eb-cc42-4aa1-af84-c2ac8a3a1981",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "342.04",
+		"discount": "121.83"
+	},
+	{
+		"id": "_4fvsbwdfl",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "2428.47",
+		"discount": "586.50"
+	},
+	{
+		"id": "_v85hnjy72",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "6880.59",
+		"discount": "1065.57"
+	},
+	{
+		"id": "_dwqfqvefu",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "3131.01",
+		"discount": "1047.15"
+	},
+	{
+		"id": "_h15fpfshd",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "6717.01",
+		"discount": "2613.32"
+	},
+	{
+		"id": "_cxn7tjzo8",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "4759.41",
+		"discount": "2256.31"
+	},
+	{
+		"id": "_9pbqupf4b",
+		"cardNumber": "49df2231-5bc4-4beb-9a6f-f738160790b1",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "7782.87",
+		"discount": "1587.62"
+	},
+	{
+		"id": "_qq0yio3vh",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "4946.56",
+		"discount": "1854.93"
+	},
+	{
+		"id": "_tltgh2aeo",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "5682.25",
+		"discount": "979.80"
+	},
+	{
+		"id": "_xsob3ab10",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "5978.08",
+		"discount": "2303.78"
+	},
+	{
+		"id": "_o8tvc1p0k",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "2585.93",
+		"discount": "705.50"
+	},
+	{
+		"id": "_22fxkg0na",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "4927.50",
+		"discount": "1015.81"
+	},
+	{
+		"id": "_vp0r57ns5",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "3468.27",
+		"discount": "1534.87"
+	},
+	{
+		"id": "_ulwvvj29a",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "320.05",
+		"discount": "40.40"
+	},
+	{
+		"id": "_qz727qx0e",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "6462.36",
+		"discount": "1480.16"
+	},
+	{
+		"id": "_4uw2p8tnz",
+		"cardNumber": "2092bbdc-b0c1-4b1b-9699-e918861bde42",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "9229.90",
+		"discount": "1861.01"
+	},
+	{
+		"id": "_n8mammya4",
+		"cardNumber": "b930b608-e1c8-44c7-a5c5-fa9b8b24151a",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "2076.03",
+		"discount": "585.96"
+	},
+	{
+		"id": "_196e29erb",
+		"cardNumber": "b930b608-e1c8-44c7-a5c5-fa9b8b24151a",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "8124.42",
+		"discount": "3880.18"
+	},
+	{
+		"id": "_825i5eslp",
+		"cardNumber": "b930b608-e1c8-44c7-a5c5-fa9b8b24151a",
+		"date": "2016-12-25T10:21:33.750Z",
+		"sum": "2823.29",
+		"discount": "526.01"
+	},
+	{
+		"id": "_ywp3cqbbp",
+		"cardNumber": "3a6354bf-5af8-40e5-a67c-6d0b4accfbd6",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "933.49",
+		"discount": "386.53"
+	},
+	{
+		"id": "_uce494wxa",
+		"cardNumber": "3a6354bf-5af8-40e5-a67c-6d0b4accfbd6",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "3420.66",
+		"discount": "1420.12"
+	},
+	{
+		"id": "_0gfisaqcz",
+		"cardNumber": "3a6354bf-5af8-40e5-a67c-6d0b4accfbd6",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "2174.13",
+		"discount": "66.00"
+	},
+	{
+		"id": "_sxdcg3uhk",
+		"cardNumber": "50c0da19-2057-4621-beff-e5dceeb65cad",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "6330.31",
+		"discount": "486.01"
+	},
+	{
+		"id": "_0r8jiamwx",
+		"cardNumber": "50c0da19-2057-4621-beff-e5dceeb65cad",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "5021.41",
+		"discount": "2496.68"
+	},
+	{
+		"id": "_vveu7evyp",
+		"cardNumber": "50c0da19-2057-4621-beff-e5dceeb65cad",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "2295.41",
+		"discount": "149.01"
+	},
+	{
+		"id": "_gcsxa4pse",
+		"cardNumber": "50c0da19-2057-4621-beff-e5dceeb65cad",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "9269.96",
+		"discount": "1524.09"
+	},
+	{
+		"id": "_7j492nuz7",
+		"cardNumber": "dc058314-1b5c-4ff5-9db1-29f459327660",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "27.20",
+		"discount": "5.72"
+	},
+	{
+		"id": "_jqhck7h89",
+		"cardNumber": "dc058314-1b5c-4ff5-9db1-29f459327660",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "6887.73",
+		"discount": "2009.26"
+	},
+	{
+		"id": "_ylpv6gh3g",
+		"cardNumber": "dc058314-1b5c-4ff5-9db1-29f459327660",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "9852.13",
+		"discount": "1590.02"
+	},
+	{
+		"id": "_nuqomsl7c",
+		"cardNumber": "dc058314-1b5c-4ff5-9db1-29f459327660",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "1682.75",
+		"discount": "637.63"
+	},
+	{
+		"id": "_8102n03k8",
+		"cardNumber": "dc058314-1b5c-4ff5-9db1-29f459327660",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "6344.49",
+		"discount": "2713.27"
+	},
+	{
+		"id": "_bt2vldgy1",
+		"cardNumber": "719a839d-9051-448b-99b6-418b399589c4",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "6536.78",
+		"discount": "2698.78"
+	},
+	{
+		"id": "_9nkt41z3p",
+		"cardNumber": "719a839d-9051-448b-99b6-418b399589c4",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "7047.00",
+		"discount": "2465.66"
+	},
+	{
+		"id": "_7g16riz4i",
+		"cardNumber": "719a839d-9051-448b-99b6-418b399589c4",
+		"date": "2016-12-25T10:21:33.751Z",
+		"sum": "3279.82",
+		"discount": "1043.35"
+	},
+	{
+		"id": "_mxxzlxrz2",
+		"cardNumber": "719a839d-9051-448b-99b6-418b399589c4",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "901.66",
+		"discount": "98.89"
+	},
+	{
+		"id": "_eeg3rer5y",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "5582.48",
+		"discount": "1281.87"
+	},
+	{
+		"id": "_fw25aarwt",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "8138.41",
+		"discount": "2063.44"
+	},
+	{
+		"id": "_bu8fauqke",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "5445.54",
+		"discount": "2484.94"
+	},
+	{
+		"id": "_teq9l5ujm",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "7726.92",
+		"discount": "1564.82"
+	},
+	{
+		"id": "_c4gupdmqq",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "7266.84",
+		"discount": "3102.52"
+	},
+	{
+		"id": "_d9h6xqa0w",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "3797.34",
+		"discount": "1481.14"
+	},
+	{
+		"id": "_8d114vdfa",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "8749.41",
+		"discount": "2926.60"
+	},
+	{
+		"id": "_h94w4w2hk",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "8626.42",
+		"discount": "1635.44"
+	},
+	{
+		"id": "_bw36djptr",
+		"cardNumber": "1ffb9ec7-c173-4e35-b48e-0140ff2ce9fc",
+		"date": "2016-12-25T10:21:33.752Z",
+		"sum": "20.92",
+		"discount": "6.12"
+	},
+	{
+		"id": "_3022q5fdb",
+		"cardNumber": "c5369a4e-333a-4fe4-99c3-d5c61ed823f7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7698.96",
+		"discount": "2772.33"
+	},
+	{
+		"id": "_nfuwk2t05",
+		"cardNumber": "c5369a4e-333a-4fe4-99c3-d5c61ed823f7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2818.45",
+		"discount": "329.08"
+	},
+	{
+		"id": "_8hlsf14ic",
+		"cardNumber": "c5369a4e-333a-4fe4-99c3-d5c61ed823f7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9391.27",
+		"discount": "3007.72"
+	},
+	{
+		"id": "_c5wn7ipt7",
+		"cardNumber": "c5369a4e-333a-4fe4-99c3-d5c61ed823f7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1182.73",
+		"discount": "4.74"
+	},
+	{
+		"id": "_q1tawzhtn",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7568.69",
+		"discount": "614.51"
+	},
+	{
+		"id": "_2if6d8fzg",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7268.55",
+		"discount": "2797.74"
+	},
+	{
+		"id": "_4p88szekh",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "583.39",
+		"discount": "107.00"
+	},
+	{
+		"id": "_uomasem50",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2073.84",
+		"discount": "987.19"
+	},
+	{
+		"id": "_zwyt3hyja",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3993.52",
+		"discount": "1621.36"
+	},
+	{
+		"id": "_xl54qm76t",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1206.82",
+		"discount": "349.33"
+	},
+	{
+		"id": "_8gftz876z",
+		"cardNumber": "e005be1b-ecbb-4933-b8d8-ed81217ce350",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6924.39",
+		"discount": "288.93"
+	},
+	{
+		"id": "_rfhfg1f2l",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3254.81",
+		"discount": "1500.61"
+	},
+	{
+		"id": "_537g2zhsq",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1653.64",
+		"discount": "787.16"
+	},
+	{
+		"id": "_64g13z4nu",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6237.26",
+		"discount": "2407.16"
+	},
+	{
+		"id": "_6ga8j99d9",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6959.14",
+		"discount": "2338.26"
+	},
+	{
+		"id": "_ccm4kvde0",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5783.67",
+		"discount": "1561.78"
+	},
+	{
+		"id": "_vcd4ryq1u",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7469.98",
+		"discount": "2580.52"
+	},
+	{
+		"id": "_c8r6w375r",
+		"cardNumber": "643afc17-a223-4e63-a890-4f1c8581a95b",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2982.67",
+		"discount": "1130.27"
+	},
+	{
+		"id": "_2hmjydfbs",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "249.26",
+		"discount": "55.65"
+	},
+	{
+		"id": "_xhedvnhjz",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3963.09",
+		"discount": "1539.68"
+	},
+	{
+		"id": "_8repn3oq8",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6965.02",
+		"discount": "3354.39"
+	},
+	{
+		"id": "_ygludquve",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1426.42",
+		"discount": "610.65"
+	},
+	{
+		"id": "_gipaa2k7n",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "518.98",
+		"discount": "146.00"
+	},
+	{
+		"id": "_t9d3joh6d",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2206.45",
+		"discount": "977.92"
+	},
+	{
+		"id": "_isypf5uqv",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "833.39",
+		"discount": "6.30"
+	},
+	{
+		"id": "_3kp8ojjj0",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "354.27",
+		"discount": "154.05"
+	},
+	{
+		"id": "_39094i3jh",
+		"cardNumber": "9aefa002-119a-4dbb-aaa1-bb5b522f0e7e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2873.12",
+		"discount": "1137.52"
+	},
+	{
+		"id": "_13wev5e0o",
+		"cardNumber": "d48bbf79-b222-4fb1-bb8a-f1379303f4ef",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3733.63",
+		"discount": "236.42"
+	},
+	{
+		"id": "_062nvap80",
+		"cardNumber": "74a2b467-d8cb-4d75-884e-79125f9ecbc3",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4884.55",
+		"discount": "1120.46"
+	},
+	{
+		"id": "_wtqp8c0dd",
+		"cardNumber": "74a2b467-d8cb-4d75-884e-79125f9ecbc3",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6966.32",
+		"discount": "3141.01"
+	},
+	{
+		"id": "_31jp222dq",
+		"cardNumber": "74a2b467-d8cb-4d75-884e-79125f9ecbc3",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3043.07",
+		"discount": "13.69"
+	},
+	{
+		"id": "_d5zgcvhuz",
+		"cardNumber": "4ddc50ee-a6ce-46f3-a42f-ee63738055c2",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3067.06",
+		"discount": "1176.15"
+	},
+	{
+		"id": "_6vydsv9cv",
+		"cardNumber": "4ddc50ee-a6ce-46f3-a42f-ee63738055c2",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1061.98",
+		"discount": "14.63"
+	},
+	{
+		"id": "_1v6b0rmnh",
+		"cardNumber": "4ddc50ee-a6ce-46f3-a42f-ee63738055c2",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3906.84",
+		"discount": "893.67"
+	},
+	{
+		"id": "_sy5hf965r",
+		"cardNumber": "280e6fca-836d-4ac9-b340-1d9c3b238ef7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6068.39",
+		"discount": "114.85"
+	},
+	{
+		"id": "_nbg74zmvu",
+		"cardNumber": "280e6fca-836d-4ac9-b340-1d9c3b238ef7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6052.04",
+		"discount": "2403.88"
+	},
+	{
+		"id": "_9z35tmuj4",
+		"cardNumber": "280e6fca-836d-4ac9-b340-1d9c3b238ef7",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "157.96",
+		"discount": "6.64"
+	},
+	{
+		"id": "_ya4su0n3b",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8849.10",
+		"discount": "2432.57"
+	},
+	{
+		"id": "_dvhmojfll",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3016.37",
+		"discount": "777.27"
+	},
+	{
+		"id": "_2h8s7fem7",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2005.51",
+		"discount": "436.98"
+	},
+	{
+		"id": "_5zwahn3pr",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9276.26",
+		"discount": "2461.58"
+	},
+	{
+		"id": "_px6urtrb5",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1954.99",
+		"discount": "407.93"
+	},
+	{
+		"id": "_jwul4vrbp",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5498.08",
+		"discount": "1534.08"
+	},
+	{
+		"id": "_fn8iovof4",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4691.13",
+		"discount": "2032.05"
+	},
+	{
+		"id": "_eiyp2yuj7",
+		"cardNumber": "323df09e-152e-4060-91ff-30f0a7388bec",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1843.27",
+		"discount": "328.71"
+	},
+	{
+		"id": "_po51cmscf",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5853.21",
+		"discount": "2239.90"
+	},
+	{
+		"id": "_ep453d33a",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2333.48",
+		"discount": "24.33"
+	},
+	{
+		"id": "_roffamxzc",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4734.95",
+		"discount": "1895.81"
+	},
+	{
+		"id": "_devfmo6vx",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1886.06",
+		"discount": "524.96"
+	},
+	{
+		"id": "_mqdjrltlt",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8335.47",
+		"discount": "1410.36"
+	},
+	{
+		"id": "_paik21n7i",
+		"cardNumber": "21ce5c61-c4da-4735-8d6b-41ec243cfdc6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6006.66",
+		"discount": "2477.49"
+	},
+	{
+		"id": "_60hb5cdsv",
+		"cardNumber": "fd4f6771-2dcf-4d9f-99ba-5ca8e841c47d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6054.49",
+		"discount": "619.34"
+	},
+	{
+		"id": "_q63juq7m7",
+		"cardNumber": "fd4f6771-2dcf-4d9f-99ba-5ca8e841c47d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8797.87",
+		"discount": "3526.98"
+	},
+	{
+		"id": "_731rn9gxc",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "802.49",
+		"discount": "43.45"
+	},
+	{
+		"id": "_e6jetu2b8",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4607.39",
+		"discount": "1286.18"
+	},
+	{
+		"id": "_1pjp3wgcc",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7373.20",
+		"discount": "1880.14"
+	},
+	{
+		"id": "_6mhraus3i",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5513.95",
+		"discount": "206.63"
+	},
+	{
+		"id": "_9ymr7a4x0",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6670.89",
+		"discount": "2775.45"
+	},
+	{
+		"id": "_4p09soba2",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5530.69",
+		"discount": "1236.61"
+	},
+	{
+		"id": "_e5udqopvw",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9565.61",
+		"discount": "804.43"
+	},
+	{
+		"id": "_80lb0hcf7",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3630.22",
+		"discount": "435.85"
+	},
+	{
+		"id": "_tpoohzo0t",
+		"cardNumber": "e7fc83d9-8c22-45a9-9c33-6e464655b1ce",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "350.81",
+		"discount": "24.73"
+	},
+	{
+		"id": "_taeupe8tq",
+		"cardNumber": "ccb2afe5-b430-453e-aec5-8654ba916918",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9729.61",
+		"discount": "4712.65"
+	},
+	{
+		"id": "_j4mzr8dit",
+		"cardNumber": "ccb2afe5-b430-453e-aec5-8654ba916918",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4596.24",
+		"discount": "527.70"
+	},
+	{
+		"id": "_ozj6j1bdy",
+		"cardNumber": "ccb2afe5-b430-453e-aec5-8654ba916918",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4041.53",
+		"discount": "1783.29"
+	},
+	{
+		"id": "_1nrvqnuys",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5606.50",
+		"discount": "2157.21"
+	},
+	{
+		"id": "_aucbcu3vq",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6364.02",
+		"discount": "2816.68"
+	},
+	{
+		"id": "_cwduqr26f",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6722.87",
+		"discount": "1951.10"
+	},
+	{
+		"id": "_asqpizxo8",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4381.00",
+		"discount": "417.54"
+	},
+	{
+		"id": "_eja04qwl8",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6677.94",
+		"discount": "2576.41"
+	},
+	{
+		"id": "_wibuu3gg1",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7744.90",
+		"discount": "2684.05"
+	},
+	{
+		"id": "_rbz20heo7",
+		"cardNumber": "0d24604e-ef5f-4227-bfda-5ee950656685",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7229.49",
+		"discount": "168.70"
+	},
+	{
+		"id": "_wwk4j3w5q",
+		"cardNumber": "fd8b4a23-eebc-4ff3-9525-6c7194706df6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4511.66",
+		"discount": "1829.43"
+	},
+	{
+		"id": "_nxpmx25q6",
+		"cardNumber": "fd8b4a23-eebc-4ff3-9525-6c7194706df6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9674.24",
+		"discount": "1179.52"
+	},
+	{
+		"id": "_mb1a75eo1",
+		"cardNumber": "fd8b4a23-eebc-4ff3-9525-6c7194706df6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "563.61",
+		"discount": "221.95"
+	},
+	{
+		"id": "_65fzan6do",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "138.25",
+		"discount": "12.88"
+	},
+	{
+		"id": "_hi0jrj1xo",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2346.97",
+		"discount": "1172.74"
+	},
+	{
+		"id": "_vh1qdvntd",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7462.92",
+		"discount": "2615.10"
+	},
+	{
+		"id": "_tte1n7dba",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4851.34",
+		"discount": "1205.71"
+	},
+	{
+		"id": "_rkawp3ibb",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "161.38",
+		"discount": "57.11"
+	},
+	{
+		"id": "_f41t9lwkk",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4326.65",
+		"discount": "1714.52"
+	},
+	{
+		"id": "_7mc8p2n6r",
+		"cardNumber": "23d9ae20-bcc5-4e33-b6b3-64eb695d71e6",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9779.48",
+		"discount": "1803.11"
+	},
+	{
+		"id": "_dopxqtf37",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "531.42",
+		"discount": "89.32"
+	},
+	{
+		"id": "_4tkx8bhjg",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3833.37",
+		"discount": "11.34"
+	},
+	{
+		"id": "_djnk2vk3p",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9797.76",
+		"discount": "692.58"
+	},
+	{
+		"id": "_uk14k1j06",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9924.84",
+		"discount": "164.18"
+	},
+	{
+		"id": "_bb9bs7g7u",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6729.58",
+		"discount": "1955.12"
+	},
+	{
+		"id": "_1n0b6sbb8",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3096.80",
+		"discount": "1545.26"
+	},
+	{
+		"id": "_rsa5m8fsx",
+		"cardNumber": "be66835f-c40f-4312-83dd-b707899cbf37",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6881.55",
+		"discount": "2787.02"
+	},
+	{
+		"id": "_uha9v3vch",
+		"cardNumber": "3ad582e7-fcfa-4dc7-8fe4-99465eeda07d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8880.43",
+		"discount": "506.39"
+	},
+	{
+		"id": "_37lw91ax4",
+		"cardNumber": "3ad582e7-fcfa-4dc7-8fe4-99465eeda07d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "329.97",
+		"discount": "129.81"
+	},
+	{
+		"id": "_uduf7sarm",
+		"cardNumber": "3ad582e7-fcfa-4dc7-8fe4-99465eeda07d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "125.05",
+		"discount": "33.19"
+	},
+	{
+		"id": "_ddxbdrssw",
+		"cardNumber": "3ad582e7-fcfa-4dc7-8fe4-99465eeda07d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "5809.72",
+		"discount": "2375.55"
+	},
+	{
+		"id": "_p4keihe6y",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6724.14",
+		"discount": "276.05"
+	},
+	{
+		"id": "_hoyidr7ob",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1583.83",
+		"discount": "431.53"
+	},
+	{
+		"id": "_62gwuoutr",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8658.95",
+		"discount": "3779.74"
+	},
+	{
+		"id": "_nbv3gcwdi",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7663.04",
+		"discount": "1565.96"
+	},
+	{
+		"id": "_qp6ye8uy0",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9359.41",
+		"discount": "3423.24"
+	},
+	{
+		"id": "_pl06dgdvx",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2586.23",
+		"discount": "887.58"
+	},
+	{
+		"id": "_n8e40x0mf",
+		"cardNumber": "505f59e2-7c7c-4094-a78a-1ec80f56c2ee",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2137.78",
+		"discount": "90.87"
+	},
+	{
+		"id": "_sdjvrrvgt",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "507.55",
+		"discount": "155.07"
+	},
+	{
+		"id": "_5wdbbnzbe",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2181.15",
+		"discount": "963.96"
+	},
+	{
+		"id": "_801e8miw4",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2166.16",
+		"discount": "445.52"
+	},
+	{
+		"id": "_pwqf0g082",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4879.24",
+		"discount": "603.50"
+	},
+	{
+		"id": "_rpat9jdxu",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8274.10",
+		"discount": "845.40"
+	},
+	{
+		"id": "_fethpwpuq",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1564.18",
+		"discount": "370.22"
+	},
+	{
+		"id": "_r9mdvydhb",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "477.94",
+		"discount": "49.40"
+	},
+	{
+		"id": "_znq22fv2u",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8061.97",
+		"discount": "3519.53"
+	},
+	{
+		"id": "_8m3ohbo8n",
+		"cardNumber": "35c5b007-b1d1-4939-b0de-3d45235fdaba",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1057.10",
+		"discount": "238.68"
+	},
+	{
+		"id": "_l2qns029l",
+		"cardNumber": "ffb101a4-8e93-4b52-b2b5-ebaa3365604d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4918.76",
+		"discount": "1325.45"
+	},
+	{
+		"id": "_zh6clp2aq",
+		"cardNumber": "ffb101a4-8e93-4b52-b2b5-ebaa3365604d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1182.97",
+		"discount": "409.04"
+	},
+	{
+		"id": "_pt7hvpu1k",
+		"cardNumber": "ffb101a4-8e93-4b52-b2b5-ebaa3365604d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9131.95",
+		"discount": "3296.89"
+	},
+	{
+		"id": "_sa4woteo7",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7283.67",
+		"discount": "998.31"
+	},
+	{
+		"id": "_28fsmepsf",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7396.36",
+		"discount": "3563.46"
+	},
+	{
+		"id": "_q7uz3e9lz",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9115.25",
+		"discount": "1149.28"
+	},
+	{
+		"id": "_tyadeuk05",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3953.09",
+		"discount": "886.59"
+	},
+	{
+		"id": "_170vayh76",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2574.05",
+		"discount": "421.46"
+	},
+	{
+		"id": "_5tkdabhqb",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8122.43",
+		"discount": "958.66"
+	},
+	{
+		"id": "_yp2ruiqeg",
+		"cardNumber": "c33ff390-325e-464e-befa-2234fd12cebd",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8720.92",
+		"discount": "122.19"
+	},
+	{
+		"id": "_bhd157aza",
+		"cardNumber": "0f0aaebb-e981-42b4-94a5-c9bc4c25d848",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8947.96",
+		"discount": "3095.90"
+	},
+	{
+		"id": "_ruypf0642",
+		"cardNumber": "0f0aaebb-e981-42b4-94a5-c9bc4c25d848",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9981.65",
+		"discount": "2696.76"
+	},
+	{
+		"id": "_h0cghdrgm",
+		"cardNumber": "0f0aaebb-e981-42b4-94a5-c9bc4c25d848",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8387.21",
+		"discount": "1264.23"
+	},
+	{
+		"id": "_47gnguuh7",
+		"cardNumber": "0f0aaebb-e981-42b4-94a5-c9bc4c25d848",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "543.95",
+		"discount": "217.95"
+	},
+	{
+		"id": "_522gszl1m",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3194.06",
+		"discount": "382.90"
+	},
+	{
+		"id": "_po79ygtv4",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1196.12",
+		"discount": "414.89"
+	},
+	{
+		"id": "_uebicexc2",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7290.90",
+		"discount": "2927.14"
+	},
+	{
+		"id": "_e3a2fzb2m",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4096.22",
+		"discount": "1050.64"
+	},
+	{
+		"id": "_8iw1omp03",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9220.54",
+		"discount": "2577.00"
+	},
+	{
+		"id": "_yrx6ji3vg",
+		"cardNumber": "9895096c-cdee-43d7-80d0-85c554b4586d",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2586.94",
+		"discount": "1044.54"
+	},
+	{
+		"id": "_yse983rmh",
+		"cardNumber": "b9f5bcca-6d0d-4082-94ec-9c5bb0eb3871",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6175.65",
+		"discount": "2716.58"
+	},
+	{
+		"id": "_4p0pkows8",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "3529.75",
+		"discount": "1611.68"
+	},
+	{
+		"id": "_dzrjwx814",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "9762.34",
+		"discount": "3188.47"
+	},
+	{
+		"id": "_vqzawv7yy",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "6362.07",
+		"discount": "1499.81"
+	},
+	{
+		"id": "_lg89qkvbe",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "2214.76",
+		"discount": "638.58"
+	},
+	{
+		"id": "_3jfhguq3a",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1534.54",
+		"discount": "201.15"
+	},
+	{
+		"id": "_f039f9wnu",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "4026.12",
+		"discount": "1072.86"
+	},
+	{
+		"id": "_4kax6gao0",
+		"cardNumber": "497a9fd5-2e29-4f96-b5ad-b8bb7578803e",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "7748.56",
+		"discount": "310.69"
+	},
+	{
+		"id": "_7rv9lj9f6",
+		"cardNumber": "15f7da59-8b27-4b35-a134-ae6bcc8e7798",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "213.98",
+		"discount": "78.10"
+	},
+	{
+		"id": "_njkj6j9lu",
+		"cardNumber": "ad6d57f3-59b4-44b2-a344-4f2e66b81fd4",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1177.10",
+		"discount": "196.16"
+	},
+	{
+		"id": "_grew956ey",
+		"cardNumber": "ad6d57f3-59b4-44b2-a344-4f2e66b81fd4",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "8731.00",
+		"discount": "2011.99"
+	},
+	{
+		"id": "_z375xoyc0",
+		"cardNumber": "ad6d57f3-59b4-44b2-a344-4f2e66b81fd4",
+		"date": "2016-12-25T10:21:33.753Z",
+		"sum": "1130.36",
+		"discount": "284.41"
+	},
+	{
+		"id": "_z6bddez53",
+		"cardNumber": "ad6d57f3-59b4-44b2-a344-4f2e66b81fd4",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4850.80",
+		"discount": "1616.64"
+	},
+	{
+		"id": "_8rvw05uf3",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1952.13",
+		"discount": "159.20"
+	},
+	{
+		"id": "_6snjynyft",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7534.15",
+		"discount": "794.32"
+	},
+	{
+		"id": "_kao8iac1j",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2412.22",
+		"discount": "144.57"
+	},
+	{
+		"id": "_eq3x2fzyx",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "891.71",
+		"discount": "67.37"
+	},
+	{
+		"id": "_gn0va6wq2",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3303.48",
+		"discount": "280.61"
+	},
+	{
+		"id": "_f4s8590y4",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "767.91",
+		"discount": "57.50"
+	},
+	{
+		"id": "_nj3qrjy5c",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7424.46",
+		"discount": "2578.84"
+	},
+	{
+		"id": "_dphvei286",
+		"cardNumber": "38038f0b-b0af-477b-81a1-84a09db03b32",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2289.98",
+		"discount": "402.47"
+	},
+	{
+		"id": "_46c3glhrq",
+		"cardNumber": "64beaa9f-708e-4977-8388-808c623875de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "697.81",
+		"discount": "39.28"
+	},
+	{
+		"id": "_thtbljobn",
+		"cardNumber": "64beaa9f-708e-4977-8388-808c623875de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8595.17",
+		"discount": "494.92"
+	},
+	{
+		"id": "_clkll5kgg",
+		"cardNumber": "64beaa9f-708e-4977-8388-808c623875de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "815.95",
+		"discount": "148.59"
+	},
+	{
+		"id": "_xj0wm9si8",
+		"cardNumber": "64beaa9f-708e-4977-8388-808c623875de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1212.74",
+		"discount": "412.95"
+	},
+	{
+		"id": "_pfn6pnohz",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4705.16",
+		"discount": "1666.57"
+	},
+	{
+		"id": "_9pmgv0iub",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5847.29",
+		"discount": "2798.40"
+	},
+	{
+		"id": "_v4whdjw36",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5780.03",
+		"discount": "2394.32"
+	},
+	{
+		"id": "_m3vdqkhcy",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8512.74",
+		"discount": "1836.05"
+	},
+	{
+		"id": "_h81begtzt",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6371.83",
+		"discount": "1649.08"
+	},
+	{
+		"id": "_qu1gl6amd",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2379.32",
+		"discount": "564.39"
+	},
+	{
+		"id": "_2w1wp86d9",
+		"cardNumber": "226d8eba-48d3-4f41-a9f5-563b96f4dfda",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6517.06",
+		"discount": "2443.34"
+	},
+	{
+		"id": "_7sce674y5",
+		"cardNumber": "901177d8-b2e3-43c1-a024-9d00941bb4de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2216.66",
+		"discount": "869.89"
+	},
+	{
+		"id": "_wen3qylwc",
+		"cardNumber": "901177d8-b2e3-43c1-a024-9d00941bb4de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4594.21",
+		"discount": "463.72"
+	},
+	{
+		"id": "_z6j8amfli",
+		"cardNumber": "901177d8-b2e3-43c1-a024-9d00941bb4de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4992.68",
+		"discount": "1660.47"
+	},
+	{
+		"id": "_2125exq6u",
+		"cardNumber": "901177d8-b2e3-43c1-a024-9d00941bb4de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4214.50",
+		"discount": "743.73"
+	},
+	{
+		"id": "_8mo83ta5e",
+		"cardNumber": "901177d8-b2e3-43c1-a024-9d00941bb4de",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8394.80",
+		"discount": "16.77"
+	},
+	{
+		"id": "_srp1ah94r",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3636.20",
+		"discount": "1774.75"
+	},
+	{
+		"id": "_yrgx0kxma",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8141.69",
+		"discount": "681.06"
+	},
+	{
+		"id": "_xcra2y9vb",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3987.34",
+		"discount": "1620.15"
+	},
+	{
+		"id": "_q21x72fwq",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1422.24",
+		"discount": "54.87"
+	},
+	{
+		"id": "_740qieq36",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1794.59",
+		"discount": "207.68"
+	},
+	{
+		"id": "_xf49njd8p",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8540.02",
+		"discount": "2676.32"
+	},
+	{
+		"id": "_ak3ick5ho",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6738.17",
+		"discount": "834.87"
+	},
+	{
+		"id": "_wkr8fv600",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9789.99",
+		"discount": "415.35"
+	},
+	{
+		"id": "_y22ykddt4",
+		"cardNumber": "cba1fada-48e9-42c8-9541-bca53641003f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3002.90",
+		"discount": "587.16"
+	},
+	{
+		"id": "_cqy0ada50",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5665.44",
+		"discount": "1702.76"
+	},
+	{
+		"id": "_zj8rb16yx",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5350.90",
+		"discount": "1406.99"
+	},
+	{
+		"id": "_k87nhewef",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5993.14",
+		"discount": "1320.72"
+	},
+	{
+		"id": "_06jfxutor",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6033.54",
+		"discount": "1448.93"
+	},
+	{
+		"id": "_ybiyraijl",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3538.41",
+		"discount": "995.15"
+	},
+	{
+		"id": "_xvddsmrit",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1051.96",
+		"discount": "17.11"
+	},
+	{
+		"id": "_gg2gqwtjo",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8918.62",
+		"discount": "3715.96"
+	},
+	{
+		"id": "_z3015nw8n",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8752.44",
+		"discount": "3593.87"
+	},
+	{
+		"id": "_x4sin8inp",
+		"cardNumber": "533d337b-d7a7-4c4f-b0ff-237e5b99520f",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1528.89",
+		"discount": "404.65"
+	},
+	{
+		"id": "_jr1fc2rme",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "504.61",
+		"discount": "134.42"
+	},
+	{
+		"id": "_k2x9kee15",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8893.90",
+		"discount": "449.28"
+	},
+	{
+		"id": "_ogjqcaj0t",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "633.88",
+		"discount": "213.56"
+	},
+	{
+		"id": "_mz1h93vf5",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9941.40",
+		"discount": "845.33"
+	},
+	{
+		"id": "_dteghytdi",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7.23",
+		"discount": "2.74"
+	},
+	{
+		"id": "_ozsyoobcs",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6431.90",
+		"discount": "606.47"
+	},
+	{
+		"id": "_wbfc5nis6",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5533.99",
+		"discount": "1990.97"
+	},
+	{
+		"id": "_h22v7uzq2",
+		"cardNumber": "040291f5-5a99-43ac-94a9-a6c8a8cc9217",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4964.80",
+		"discount": "2366.50"
+	},
+	{
+		"id": "_45tq2t0tb",
+		"cardNumber": "886d19db-4a5f-4aaa-a4f0-ea7ef3f8ff27",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5393.62",
+		"discount": "108.61"
+	},
+	{
+		"id": "_9ajxjuc1f",
+		"cardNumber": "886d19db-4a5f-4aaa-a4f0-ea7ef3f8ff27",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6262.21",
+		"discount": "1669.78"
+	},
+	{
+		"id": "_y2u9rz5yw",
+		"cardNumber": "8378244b-b7e0-46c9-8e5c-5250d1d1ca97",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1399.63",
+		"discount": "348.69"
+	},
+	{
+		"id": "_md2s1nkjf",
+		"cardNumber": "8378244b-b7e0-46c9-8e5c-5250d1d1ca97",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4916.96",
+		"discount": "1008.85"
+	},
+	{
+		"id": "_e0njual3b",
+		"cardNumber": "08054a16-c2b9-4b37-aadb-c6bd70de6f42",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5070.67",
+		"discount": "643.27"
+	},
+	{
+		"id": "_yi7b1kv28",
+		"cardNumber": "08054a16-c2b9-4b37-aadb-c6bd70de6f42",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8150.46",
+		"discount": "381.22"
+	},
+	{
+		"id": "_cuuwurqdo",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7749.15",
+		"discount": "1903.34"
+	},
+	{
+		"id": "_xh2xygam3",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3988.73",
+		"discount": "58.27"
+	},
+	{
+		"id": "_s5auhaxzn",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9957.74",
+		"discount": "1719.55"
+	},
+	{
+		"id": "_n59yvtx0b",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5144.88",
+		"discount": "1471.63"
+	},
+	{
+		"id": "_8h4v5f0y7",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8074.11",
+		"discount": "1599.53"
+	},
+	{
+		"id": "_0pyr48zqk",
+		"cardNumber": "48958776-d149-4ea9-a383-315e4b2690ee",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1029.55",
+		"discount": "406.97"
+	},
+	{
+		"id": "_4pjo1rsng",
+		"cardNumber": "af2a457f-caea-4c9f-9ab6-13c018c4651d",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5731.54",
+		"discount": "660.32"
+	},
+	{
+		"id": "_f5d8i3poq",
+		"cardNumber": "af2a457f-caea-4c9f-9ab6-13c018c4651d",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6740.73",
+		"discount": "762.55"
+	},
+	{
+		"id": "_ffqrfdsa7",
+		"cardNumber": "af2a457f-caea-4c9f-9ab6-13c018c4651d",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9453.59",
+		"discount": "4560.85"
+	},
+	{
+		"id": "_6mgl9h35x",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3102.28",
+		"discount": "495.99"
+	},
+	{
+		"id": "_j8aiixhsk",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4739.54",
+		"discount": "1032.92"
+	},
+	{
+		"id": "_n0ltqynx1",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1181.97",
+		"discount": "299.29"
+	},
+	{
+		"id": "_n5q45qlnu",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "141.27",
+		"discount": "5.26"
+	},
+	{
+		"id": "_6myhc1g6k",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5346.57",
+		"discount": "72.64"
+	},
+	{
+		"id": "_6beyivtru",
+		"cardNumber": "ac95ec3e-0a56-4aff-8fe7-3229596845d5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9806.06",
+		"discount": "3032.68"
+	},
+	{
+		"id": "_8mdhj203a",
+		"cardNumber": "cfc81ac6-14bd-443a-a325-74ba21dd721e",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7339.31",
+		"discount": "2705.42"
+	},
+	{
+		"id": "_siki30k12",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4070.53",
+		"discount": "1522.85"
+	},
+	{
+		"id": "_rj5nyjqkh",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3906.60",
+		"discount": "1676.24"
+	},
+	{
+		"id": "_b3w48yn2m",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4384.58",
+		"discount": "410.02"
+	},
+	{
+		"id": "_ywxzqkaoo",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6502.44",
+		"discount": "2421.95"
+	},
+	{
+		"id": "_l1642893b",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6412.87",
+		"discount": "2513.60"
+	},
+	{
+		"id": "_205ixqkp1",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6420.31",
+		"discount": "535.16"
+	},
+	{
+		"id": "_761peiddu",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8033.54",
+		"discount": "2727.73"
+	},
+	{
+		"id": "_90xv4le25",
+		"cardNumber": "f35bfd63-fe1f-40f9-8c60-6381445cbcd2",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "594.26",
+		"discount": "9.71"
+	},
+	{
+		"id": "_80u5towst",
+		"cardNumber": "51847ac8-7402-4184-9e2a-46bad19e73ab",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8637.78",
+		"discount": "994.11"
+	},
+	{
+		"id": "_7mm16suik",
+		"cardNumber": "51847ac8-7402-4184-9e2a-46bad19e73ab",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9272.91",
+		"discount": "1653.84"
+	},
+	{
+		"id": "_z556f62sa",
+		"cardNumber": "51847ac8-7402-4184-9e2a-46bad19e73ab",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6676.12",
+		"discount": "900.70"
+	},
+	{
+		"id": "_blhe7gbz6",
+		"cardNumber": "51847ac8-7402-4184-9e2a-46bad19e73ab",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2468.10",
+		"discount": "951.70"
+	},
+	{
+		"id": "_bxgbmk3sb",
+		"cardNumber": "ce3ec5bc-a089-47e7-aecf-281ba2553371",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8849.04",
+		"discount": "3703.99"
+	},
+	{
+		"id": "_fb58kjeem",
+		"cardNumber": "ce3ec5bc-a089-47e7-aecf-281ba2553371",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2552.44",
+		"discount": "1229.83"
+	},
+	{
+		"id": "_vdqa9hcps",
+		"cardNumber": "ce3ec5bc-a089-47e7-aecf-281ba2553371",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3021.16",
+		"discount": "1159.55"
+	},
+	{
+		"id": "_dvzi9etmc",
+		"cardNumber": "ce3ec5bc-a089-47e7-aecf-281ba2553371",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "36.27",
+		"discount": "10.69"
+	},
+	{
+		"id": "_ngdvnb8th",
+		"cardNumber": "ce3ec5bc-a089-47e7-aecf-281ba2553371",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3662.42",
+		"discount": "277.30"
+	},
+	{
+		"id": "_6a4vzsc8t",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8380.74",
+		"discount": "3298.68"
+	},
+	{
+		"id": "_ab8eqjztb",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3111.84",
+		"discount": "142.98"
+	},
+	{
+		"id": "_fypsjhaab",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2223.78",
+		"discount": "376.14"
+	},
+	{
+		"id": "_5zjr13v1l",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1374.31",
+		"discount": "45.67"
+	},
+	{
+		"id": "_hpmeojoj0",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6817.13",
+		"discount": "3072.38"
+	},
+	{
+		"id": "_gydsn0yct",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9551.68",
+		"discount": "1340.21"
+	},
+	{
+		"id": "_raj3xzmfq",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8771.41",
+		"discount": "1642.71"
+	},
+	{
+		"id": "_l1lgdepo2",
+		"cardNumber": "a4d97ef3-72e4-4028-94b3-ea42079150bd",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3572.73",
+		"discount": "1436.36"
+	},
+	{
+		"id": "_661wzqi9h",
+		"cardNumber": "11088a66-a697-4d11-8f23-2e2b8c48167a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5379.55",
+		"discount": "1788.44"
+	},
+	{
+		"id": "_kr7dv4wiy",
+		"cardNumber": "11088a66-a697-4d11-8f23-2e2b8c48167a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3854.21",
+		"discount": "488.78"
+	},
+	{
+		"id": "_vr71n9mt2",
+		"cardNumber": "11088a66-a697-4d11-8f23-2e2b8c48167a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8284.42",
+		"discount": "1055.35"
+	},
+	{
+		"id": "_el8ss27oc",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3524.01",
+		"discount": "1520.88"
+	},
+	{
+		"id": "_t5nbqj05s",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9435.96",
+		"discount": "489.56"
+	},
+	{
+		"id": "_8sqoz2nrt",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "1305.12",
+		"discount": "303.08"
+	},
+	{
+		"id": "_ywo1j6lkn",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8714.44",
+		"discount": "3055.61"
+	},
+	{
+		"id": "_lynnma1kt",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2205.33",
+		"discount": "108.71"
+	},
+	{
+		"id": "_2tmo83ics",
+		"cardNumber": "0909e85e-4377-48d1-95f1-a46a110b723a",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3497.31",
+		"discount": "1687.32"
+	},
+	{
+		"id": "_lllsh7lcp",
+		"cardNumber": "c649d3cc-66ae-459c-8148-d928c71a59b5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7328.21",
+		"discount": "1864.28"
+	},
+	{
+		"id": "_wveqqeqyx",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7152.73",
+		"discount": "1072.37"
+	},
+	{
+		"id": "_13iyo0b7s",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8416.77",
+		"discount": "1781.84"
+	},
+	{
+		"id": "_owk1j2j9f",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7304.88",
+		"discount": "1841.87"
+	},
+	{
+		"id": "_tmg5si36f",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2249.05",
+		"discount": "448.68"
+	},
+	{
+		"id": "_0ym9vyx2a",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "222.43",
+		"discount": "54.41"
+	},
+	{
+		"id": "_1dfku20ox",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8421.78",
+		"discount": "3617.87"
+	},
+	{
+		"id": "_225csxl4w",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3630.73",
+		"discount": "923.63"
+	},
+	{
+		"id": "_nq0bkm1t5",
+		"cardNumber": "910d7577-53dd-402c-8aa1-6791ca6bed64",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7128.69",
+		"discount": "739.98"
+	},
+	{
+		"id": "_xiv19h9f6",
+		"cardNumber": "05c3a762-58ee-4db8-95af-1b20fc0b7aef",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9220.80",
+		"discount": "2897.60"
+	},
+	{
+		"id": "_0zitau5b1",
+		"cardNumber": "05c3a762-58ee-4db8-95af-1b20fc0b7aef",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9256.65",
+		"discount": "3671.50"
+	},
+	{
+		"id": "_8mby3kqgb",
+		"cardNumber": "05c3a762-58ee-4db8-95af-1b20fc0b7aef",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9123.90",
+		"discount": "2537.77"
+	},
+	{
+		"id": "_v485o7ume",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4875.27",
+		"discount": "959.84"
+	},
+	{
+		"id": "_o2dkhml38",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7802.95",
+		"discount": "3121.48"
+	},
+	{
+		"id": "_xcjnz07ok",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9530.23",
+		"discount": "1724.76"
+	},
+	{
+		"id": "_ag3i9tmbz",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "3180.39",
+		"discount": "18.23"
+	},
+	{
+		"id": "_7rib375xd",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2880.15",
+		"discount": "1294.71"
+	},
+	{
+		"id": "_obqb2y6lc",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6663.76",
+		"discount": "1066.87"
+	},
+	{
+		"id": "_1bf380b4d",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "4229.98",
+		"discount": "1963.52"
+	},
+	{
+		"id": "_es20gvh0y",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9326.65",
+		"discount": "2793.65"
+	},
+	{
+		"id": "_dsxxftnjk",
+		"cardNumber": "74d21796-0b0c-498e-9d77-9414829f4914",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8513.86",
+		"discount": "2215.09"
+	},
+	{
+		"id": "_7ipv1ttye",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9675.10",
+		"discount": "4029.39"
+	},
+	{
+		"id": "_0au2aqtps",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9073.73",
+		"discount": "3283.94"
+	},
+	{
+		"id": "_kqh49fnfb",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "287.83",
+		"discount": "130.33"
+	},
+	{
+		"id": "_ge7oip2ka",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2534.13",
+		"discount": "996.33"
+	},
+	{
+		"id": "_foseh2v8a",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8386.16",
+		"discount": "3412.78"
+	},
+	{
+		"id": "_4vwibdv42",
+		"cardNumber": "4bbc24af-848a-448c-a2c4-47da16b5e9f5",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5364.67",
+		"discount": "2364.25"
+	},
+	{
+		"id": "_qfwv0hhk2",
+		"cardNumber": "4cdac8b9-5229-43f9-9dc5-a59b41007568",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "5626.57",
+		"discount": "2615.84"
+	},
+	{
+		"id": "_0xosn0oot",
+		"cardNumber": "8c7fb46f-98e6-424b-816a-6172e2805e44",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9365.80",
+		"discount": "4551.93"
+	},
+	{
+		"id": "_e0snkrl6m",
+		"cardNumber": "8c7fb46f-98e6-424b-816a-6172e2805e44",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2822.68",
+		"discount": "212.36"
+	},
+	{
+		"id": "_2jvwc7wj2",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "6214.34",
+		"discount": "2574.05"
+	},
+	{
+		"id": "_yzlpnz4s5",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8950.82",
+		"discount": "1860.32"
+	},
+	{
+		"id": "_67fa4fou6",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "9783.00",
+		"discount": "4755.43"
+	},
+	{
+		"id": "_6t3u09xrg",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "7663.44",
+		"discount": "737.90"
+	},
+	{
+		"id": "_17ycrgvrm",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "372.44",
+		"discount": "73.09"
+	},
+	{
+		"id": "_d7q9dti46",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "2547.02",
+		"discount": "492.53"
+	},
+	{
+		"id": "_u4xlgfntw",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8672.27",
+		"discount": "3516.16"
+	},
+	{
+		"id": "_y4l8iejy7",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.754Z",
+		"sum": "8034.95",
+		"discount": "135.65"
+	},
+	{
+		"id": "_udih088kj",
+		"cardNumber": "d35fde36-3474-474d-9cc9-3da8d5bcd705",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3714.76",
+		"discount": "561.62"
+	},
+	{
+		"id": "_tkajf8sxx",
+		"cardNumber": "7d115992-cecf-4fcf-8081-c2ff1386ae07",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "9892.65",
+		"discount": "2271.55"
+	},
+	{
+		"id": "_sv3ji0mz7",
+		"cardNumber": "7d115992-cecf-4fcf-8081-c2ff1386ae07",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3628.08",
+		"discount": "395.56"
+	},
+	{
+		"id": "_03fhlgwtz",
+		"cardNumber": "77a2b0cd-aa5e-4b62-a64d-960c29cff483",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3940.05",
+		"discount": "932.13"
+	},
+	{
+		"id": "_au910jqnk",
+		"cardNumber": "77a2b0cd-aa5e-4b62-a64d-960c29cff483",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7422.66",
+		"discount": "615.22"
+	},
+	{
+		"id": "_ey4uj1bfo",
+		"cardNumber": "77a2b0cd-aa5e-4b62-a64d-960c29cff483",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4574.91",
+		"discount": "1170.09"
+	},
+	{
+		"id": "_7ihos4rib",
+		"cardNumber": "5845b59d-0314-4319-95d2-acb5c98e76ea",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8491.21",
+		"discount": "74.66"
+	},
+	{
+		"id": "_t4v8uosbc",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3499.76",
+		"discount": "1509.00"
+	},
+	{
+		"id": "_9m45hykjv",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5518.50",
+		"discount": "527.52"
+	},
+	{
+		"id": "_iq8e1jorv",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7704.16",
+		"discount": "3021.76"
+	},
+	{
+		"id": "_3hm1x7qjz",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5298.19",
+		"discount": "457.60"
+	},
+	{
+		"id": "_nevbz4rj5",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5044.97",
+		"discount": "2033.88"
+	},
+	{
+		"id": "_wpodqhvwz",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4153.15",
+		"discount": "1841.78"
+	},
+	{
+		"id": "_75dhamadh",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1920.68",
+		"discount": "927.52"
+	},
+	{
+		"id": "_ytx8kw6mh",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "6231.91",
+		"discount": "45.39"
+	},
+	{
+		"id": "_cdo4ktpy4",
+		"cardNumber": "ec1fe8ad-af9f-46ff-a5c7-9bad46d377b5",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7123.49",
+		"discount": "1353.56"
+	},
+	{
+		"id": "_2qcybh4jn",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "9311.08",
+		"discount": "3293.79"
+	},
+	{
+		"id": "_gbg6ayztp",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "314.43",
+		"discount": "67.30"
+	},
+	{
+		"id": "_4jcavj9vl",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4471.14",
+		"discount": "2220.17"
+	},
+	{
+		"id": "_fm6jd79ht",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "2271.93",
+		"discount": "196.04"
+	},
+	{
+		"id": "_k71sdt75q",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7511.54",
+		"discount": "1988.49"
+	},
+	{
+		"id": "_5nqzdnsiv",
+		"cardNumber": "f2993c96-c312-44f9-8306-42818e58497d",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5864.26",
+		"discount": "1508.15"
+	},
+	{
+		"id": "_p3xo3z5l9",
+		"cardNumber": "ca651ce0-1a1f-4d7c-9942-035976d52c49",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3392.08",
+		"discount": "127.39"
+	},
+	{
+		"id": "_g1in3ay51",
+		"cardNumber": "ca651ce0-1a1f-4d7c-9942-035976d52c49",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3643.85",
+		"discount": "726.20"
+	},
+	{
+		"id": "_zh5hfk5h8",
+		"cardNumber": "ca651ce0-1a1f-4d7c-9942-035976d52c49",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1612.81",
+		"discount": "648.17"
+	},
+	{
+		"id": "_fub6kza7t",
+		"cardNumber": "f6c30a58-2de2-46ef-8b0e-cfd924cb9f08",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "9761.95",
+		"discount": "4348.25"
+	},
+	{
+		"id": "_w22pelkxq",
+		"cardNumber": "f6c30a58-2de2-46ef-8b0e-cfd924cb9f08",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4917.40",
+		"discount": "781.15"
+	},
+	{
+		"id": "_9fue1hzqz",
+		"cardNumber": "f6c30a58-2de2-46ef-8b0e-cfd924cb9f08",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3018.13",
+		"discount": "1353.65"
+	},
+	{
+		"id": "_gzelsa922",
+		"cardNumber": "f6c30a58-2de2-46ef-8b0e-cfd924cb9f08",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5808.60",
+		"discount": "1926.13"
+	},
+	{
+		"id": "_kmsza6hbe",
+		"cardNumber": "f6c30a58-2de2-46ef-8b0e-cfd924cb9f08",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4665.60",
+		"discount": "1768.47"
+	},
+	{
+		"id": "_fqaqbwmt1",
+		"cardNumber": "fed6b2dc-f202-47e9-ba48-8002aae66bbb",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4255.13",
+		"discount": "1888.33"
+	},
+	{
+		"id": "_c10qm1k59",
+		"cardNumber": "fed6b2dc-f202-47e9-ba48-8002aae66bbb",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "364.57",
+		"discount": "17.39"
+	},
+	{
+		"id": "_lvtj834gw",
+		"cardNumber": "fed6b2dc-f202-47e9-ba48-8002aae66bbb",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8517.94",
+		"discount": "867.44"
+	},
+	{
+		"id": "_70u3w5i1c",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3664.32",
+		"discount": "326.45"
+	},
+	{
+		"id": "_lha919466",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3517.42",
+		"discount": "788.28"
+	},
+	{
+		"id": "_sgcovtpwa",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "2243.71",
+		"discount": "80.97"
+	},
+	{
+		"id": "_x6ukrjt83",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5558.54",
+		"discount": "1023.85"
+	},
+	{
+		"id": "_of2lb5xz6",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7104.05",
+		"discount": "2314.39"
+	},
+	{
+		"id": "_336edp04g",
+		"cardNumber": "352dfb5f-2696-4014-b47c-973c341f3f4f",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7185.31",
+		"discount": "1463.06"
+	},
+	{
+		"id": "_cun4udcye",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5234.94",
+		"discount": "1888.13"
+	},
+	{
+		"id": "_gy8y8ixx3",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1571.01",
+		"discount": "194.25"
+	},
+	{
+		"id": "_qvxyd4ydz",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "6207.94",
+		"discount": "2821.52"
+	},
+	{
+		"id": "_ymw1pomzo",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8416.02",
+		"discount": "1307.19"
+	},
+	{
+		"id": "_ohinb1ozk",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3713.15",
+		"discount": "1168.47"
+	},
+	{
+		"id": "_roy73wp6u",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5051.72",
+		"discount": "281.32"
+	},
+	{
+		"id": "_ear4oj7df",
+		"cardNumber": "3a18b43a-c36e-411a-9aaa-ca1e1ee15da3",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "9853.11",
+		"discount": "708.47"
+	},
+	{
+		"id": "_tb3dc7go9",
+		"cardNumber": "8885a9d2-d780-4a21-92df-3cc445ed8359",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1415.68",
+		"discount": "596.63"
+	},
+	{
+		"id": "_3pr7ny434",
+		"cardNumber": "8885a9d2-d780-4a21-92df-3cc445ed8359",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "34.32",
+		"discount": "7.56"
+	},
+	{
+		"id": "_sxyj492sv",
+		"cardNumber": "8885a9d2-d780-4a21-92df-3cc445ed8359",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7491.37",
+		"discount": "3416.64"
+	},
+	{
+		"id": "_12l6lkvzx",
+		"cardNumber": "6f9bb1b5-5563-48d2-bfee-c1b7cf9fc33e",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "594.20",
+		"discount": "59.07"
+	},
+	{
+		"id": "_nc3snn5cz",
+		"cardNumber": "6f9bb1b5-5563-48d2-bfee-c1b7cf9fc33e",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "2580.95",
+		"discount": "845.81"
+	},
+	{
+		"id": "_kyjd9vq22",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "9629.73",
+		"discount": "403.19"
+	},
+	{
+		"id": "_bz3cny9u8",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4862.33",
+		"discount": "1022.00"
+	},
+	{
+		"id": "_7lbwevcrl",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1444.14",
+		"discount": "171.92"
+	},
+	{
+		"id": "_6gi5li7sr",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5768.59",
+		"discount": "1402.13"
+	},
+	{
+		"id": "_m1wlv9p12",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8460.98",
+		"discount": "240.44"
+	},
+	{
+		"id": "_p4vgv4a5m",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4059.39",
+		"discount": "1358.57"
+	},
+	{
+		"id": "_21mvt4x8x",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4857.87",
+		"discount": "408.36"
+	},
+	{
+		"id": "_8ilw4a15j",
+		"cardNumber": "43459847-d4e7-47d9-8a95-08d893bab38b",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "6338.04",
+		"discount": "483.36"
+	},
+	{
+		"id": "_ljts647gr",
+		"cardNumber": "38be8025-060f-437e-9dc8-3e08cad23830",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1451.40",
+		"discount": "55.47"
+	},
+	{
+		"id": "_3fcmd624w",
+		"cardNumber": "38be8025-060f-437e-9dc8-3e08cad23830",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "4649.45",
+		"discount": "1989.53"
+	},
+	{
+		"id": "_881zdqi4r",
+		"cardNumber": "38be8025-060f-437e-9dc8-3e08cad23830",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7467.95",
+		"discount": "3167.17"
+	},
+	{
+		"id": "_lqza4p8ts",
+		"cardNumber": "a1818ff8-a2ee-489a-8405-fac46b8d6538",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5090.16",
+		"discount": "661.74"
+	},
+	{
+		"id": "_tde3ammce",
+		"cardNumber": "a1818ff8-a2ee-489a-8405-fac46b8d6538",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3644.42",
+		"discount": "1029.19"
+	},
+	{
+		"id": "_65uqzpxlr",
+		"cardNumber": "a1818ff8-a2ee-489a-8405-fac46b8d6538",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "7100.37",
+		"discount": "1349.27"
+	},
+	{
+		"id": "_8k3l3ka97",
+		"cardNumber": "a1818ff8-a2ee-489a-8405-fac46b8d6538",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "5082.13",
+		"discount": "1392.60"
+	},
+	{
+		"id": "_3a4x7ijso",
+		"cardNumber": "7897b237-4a92-4eac-b115-30c812723f60",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1465.65",
+		"discount": "432.70"
+	},
+	{
+		"id": "_5lez965m0",
+		"cardNumber": "7897b237-4a92-4eac-b115-30c812723f60",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "793.74",
+		"discount": "21.36"
+	},
+	{
+		"id": "_tfyx64h53",
+		"cardNumber": "53010a13-cd5d-4b2e-b900-4dabf1b84296",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "2772.12",
+		"discount": "1382.41"
+	},
+	{
+		"id": "_cs4nsnjbf",
+		"cardNumber": "53010a13-cd5d-4b2e-b900-4dabf1b84296",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8310.15",
+		"discount": "371.55"
+	},
+	{
+		"id": "_vgkis0651",
+		"cardNumber": "974a6335-7a9e-4da2-8d4e-06d51b8ad232",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8002.46",
+		"discount": "316.58"
+	},
+	{
+		"id": "_bvnim2lgd",
+		"cardNumber": "974a6335-7a9e-4da2-8d4e-06d51b8ad232",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "1265.77",
+		"discount": "614.31"
+	},
+	{
+		"id": "_srj5fkbjb",
+		"cardNumber": "974a6335-7a9e-4da2-8d4e-06d51b8ad232",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "8144.19",
+		"discount": "3304.94"
+	},
+	{
+		"id": "_e4helcuku",
+		"cardNumber": "974a6335-7a9e-4da2-8d4e-06d51b8ad232",
+		"date": "2016-12-25T10:21:33.755Z",
+		"sum": "3183.92",
+		"discount": "198.69"
+	}
+]

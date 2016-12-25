@@ -1,0 +1,45 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --bail -d --history-api-fallback --hot --progress --inline --colors",
+    "test": "NODE_PATH=./js:./js/modules mocha --opts ./mocha.opts ",
+    "build": "NODE_ENV=production webpack --bail --optimize-dedupe --optimize-minimize --optimize-occurence-order --define process.env.NODE_ENV=\"'production'\"",
+    "build_debug": "webpack --bail ",
+    "jslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homaxweb/test-react-app.git"
+  },
+  "author": "Maxim Kutyrev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homaxweb/test-react-app/issues"
+  },
+  "homepage": "https://github.com/homaxweb/test-react-app#readme",
+  "dependencies": {
+    "flux": "^3.1.2",
+    "lodash": "^4.17.3",
+    "material-ui": "^0.16.5",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "json-loader": "^0.5.4",
+    "react-hot-loader": "^1.3.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
